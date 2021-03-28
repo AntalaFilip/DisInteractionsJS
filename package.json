@@ -1,11 +1,23 @@
 {
   "name": "disinteractionsjs",
   "version": "0.1.0-SNAPSHOT",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Filip Antala",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntalaFilip/DisInteractionsJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AntalaFilip/DisInteractionsJS/issues"
+  },
+  "homepage": "https://github.com/AntalaFilip/DisInteractionsJS#readme",
+  "description": "",
+  "dependencies": {
+    "discord-interactions": "^2.0.2",
+    "express": "^4.17.1"
+  }
 }
